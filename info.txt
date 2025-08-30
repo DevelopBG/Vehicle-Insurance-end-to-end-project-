@@ -8,3 +8,7 @@ MongoDB -
 ASW -
     $env:AWS_ACCESS_KEY_ID="AKIA5SJ3RRHMJBHLNF5O"
     $env:AWS_SECRET_ACCESS_KEY="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"
+
+ECR-
+    Project Name: vehicleproj
+    URI: 932669655512.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
