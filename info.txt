@@ -1,0 +1,10 @@
+MongoDB -
+    user : banibrataghosh916_db_user
+    password : K4tKkYOm1p6MVBKd
+    connection string : mongodb+srv://banibrataghosh916_db_user:K4tKkYOm1p6MVBKd@cluster0.wcrkutl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+    $env:MONGODB_URL = "mongodb+srv://banibrataghosh916_db_user:K4tKkYOm1p6MVBKd@cluster0.wcrkutl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+ASW -
+    $env:AWS_ACCESS_KEY_ID="AKIA5SJ3RRHMJBHLNF5O"
+    $env:AWS_SECRET_ACCESS_KEY="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"
