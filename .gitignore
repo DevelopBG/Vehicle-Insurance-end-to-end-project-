@@ -1,9 +1,10 @@
-info.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
 
+info.txt
 # C extensions
 *.so
 
