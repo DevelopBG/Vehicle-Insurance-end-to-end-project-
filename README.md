@@ -17,5 +17,6 @@ Follow along to explore project setup, data processing, model deployment, and CI
 
 ## 📁 Project Setup and Structure
 - To create the required folder structure and palceholder, run the blow command on the terminal
-  '''
+  ```base
   $python template.py
+  ```
